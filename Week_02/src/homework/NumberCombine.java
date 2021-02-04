@@ -8,4 +8,7 @@ package homework;
  * 微软 亚马逊 谷歌面试题
  */
 public class NumberCombine {
+    public static void main(String[] args) {
+        //todo week2 组合问题 学完dfs回来解决
+    }
 }
