@@ -20,6 +20,7 @@ public class GenerateParenthesis {
         return result;
     }
 
+    //深度优先搜索
     //注意：
     //左括号随时可以加，只要别超过n个, 即left<n
     //右括号必须加在左括号的右边, 即left>right
