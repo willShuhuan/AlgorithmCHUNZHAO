@@ -1,6 +1,5 @@
 package dsh.datastructure.tree.threadbinarytree;
 
-import com.dsh.datastructure.tree.HeroNode;
 
 /**
  * @author DSH

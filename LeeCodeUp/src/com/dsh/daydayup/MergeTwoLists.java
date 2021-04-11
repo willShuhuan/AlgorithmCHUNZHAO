@@ -4,7 +4,7 @@ package com.dsh.daydayup;
 /**
  * @author DSH
  * @date 2021/4/1
- * @description
+ * @description 合并两个有序链表
  */
 public class MergeTwoLists {
     public static void main(String[] args) {

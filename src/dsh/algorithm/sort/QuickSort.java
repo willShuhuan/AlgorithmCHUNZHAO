@@ -87,10 +87,10 @@ public class QuickSort {
                 left++;
             }
             arr[right] = arr[left];
-//            System.out.println("排序后=="+Arrays.toString(arr));
+            System.out.println("排序后=="+Arrays.toString(arr));
         }
         arr[left] = pivot;
-//        System.out.println("循环后=="+Arrays.toString(arr));
+        System.out.println("循环后=="+Arrays.toString(arr));
         return left;
     }
 
